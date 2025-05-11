@@ -15,7 +15,6 @@
   <tr>
     <td><b>P/LANGUAGES</b></td>
     <td>
-      <img src="https://img.shields.io/badge/PHP-800000?style=for-the-badge&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-800000?style=for-the-badge&logo=python&logoColor=white"/>
     </td>
   </tr>
@@ -97,6 +96,7 @@
  
  ![codewars](https://www.codewars.com/users/TechWhiz/badges/large)
  
+ ![leetcode](https://leetcard.jacoblin.cool/Vasiliy_Tonhobash?theme=nord&font=Tiro%20Tamil)
 
  ---
  
