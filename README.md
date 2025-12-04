@@ -2,10 +2,12 @@
  
  ### 👩‍💻 About me
  
- - Passionate and goal-oriented backend developer with hands-on experience in building and maintaining web applications.  
- - Proficient in JavaScript and Python, with expertise in popular frameworks like React, Django, and FastAPI.  
+ - Passionate and goal-driven DevOps engineer in training, focused on building reliable, automated, and scalable systems.
+ - Continuously exploring best practices in cloud engineering, containers, monitoring, and IaC to become a highly effective
+  DevOps professional.
  - Strong ability to self-learn and apply new concepts to solve real-world problems effectively.  
- - Constantly exploring new technologies and looking for opportunities to grow professionally.
+ - Strong self-learner with the ability to quickly adopt new tools and technologies to solve real-world engineering
+challenges.
  
  ---
  
@@ -22,8 +24,6 @@
     <td><b>FRAMEWORKS</b></td>
     <td>
       <img src="https://img.shields.io/badge/Django-A52A2A?style=for-the-badge&logo=django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/DRF-A52A2A?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/FastAPI-A52A2A?style=for-the-badge&logo=fastapi&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -36,16 +36,8 @@
   <tr>
     <td><b>TESTING</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Pytest-8B4513?style=for-the-badge&logo=Pytest&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pytest-8B4513?style=for-the-badge&logo=Pytest&logoColor=white" />
       <img src="https://img.shields.io/badge/unittest-8B4513?style=for-the-badge&logo=unittest&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Postman-8B4513?style=for-the-badge&logo=postman&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>ASYNC</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AsyncIO-D2691E?style=for-the-badge&logo=AsyncIO&logoColor=white"/>
-      <img src="https://img.shields.io/badge/aiohttp-D2691E?style=for-the-badge&logo=aiohttp&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -58,7 +50,6 @@
   <tr>
     <td><b>SCRAPING</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Selenium-B8860B?style=for-the-badge&logo=Selenium&logoColor=white"/>
       <img src="https://img.shields.io/badge/BEAUTIFUL SOUP-B8860B?style=for-the-badge"/>
     </td>
   </tr>
