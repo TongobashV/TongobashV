@@ -170,3 +170,17 @@ Monitoring stack based on:
 - Grafana
 
 Collecting and visualizing Linux system metrics.
+
+---
+
+## 🧩 Codewars
+
+<p align="left">
+  <a href="https://www.codewars.com/users/TechWhiz">
+    <img src="https://www.codewars.com/users/TechWhiz/badges/large" alt="Codewars profile" />
+  </a>
+</p>
+
+Python practice through algorithmic challenges and coding exercises.
+
+---
