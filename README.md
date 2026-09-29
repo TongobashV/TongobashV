@@ -170,8 +170,3 @@ Monitoring stack based on:
 - Grafana
 
 Collecting and visualizing Linux system metrics.
-
- ![codewars](https://www.codewars.com/users/TechWhiz/badges/large)
-
-
-
